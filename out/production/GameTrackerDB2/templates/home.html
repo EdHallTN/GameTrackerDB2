@@ -1,0 +1,67 @@
+<html>
+<body>
+<form action="/logout" method="post">
+    <button type="submit">Logout</button>
+</form>
+
+<form action="/create-game" method="post">
+    <input type="text" placeholder="Game name" name="gameName" width="200"/>
+    <label>
+        <select name="gameGenre">
+            <option selected disabled>Genre</option>
+            <option value="adventure">Adventure</option>
+            <option value="rpg">RPG</option>
+            <option value="strategy">Strategy</option>
+            <option value="shooter">Shooter</option>
+        </select>
+    </label>
+    <label>
+        <select name="gamePlatform">
+            <option selected disabled>Platform</option>
+            <option value="pc">PC</option>
+            <option value="ps4">PS4</option>
+            <option value="xbone">XBox One</option>
+            <option value="wiiu">Wii U</option>
+        </select>
+    </label>
+    <input type="number" placeholder="Release Year" name="gameYear"/>
+    <button type="submit">Create Game</button>
+</form>
+
+<form action="/delete-game" method="post">
+    <input type="number" placeholder="Game ID" name="id" width="125"/>
+    <button type="submit">Delete Game</button>
+</form>
+
+<form action="/edit-game" method="post">
+    <input type="number" placeholder="Game ID" name="ID"/>
+    <input type="text" placeholder="New name" name="gameName" width="200"/>
+    <label>
+        <select name="gameGenre">
+            <option selected disabled>Genre</option>
+            <option value="Adventure">Adventure</option>
+            <option value="RPG">RPG</option>
+            <option value="Strategy">Strategy</option>
+            <option value="Shooter">Shooter</option>
+        </select>
+    </label>
+    <label>
+        <select name="gamePlatform">
+            <option selected disabled>Platform</option>
+            <option value="PC">PC</option>
+            <option value="PS4">PS4</option>
+            <option value="XBOX One">XBOX One</option>
+            <option value="Wii U">Wii U</option>
+        </select>
+    </label>
+    <input type="number" placeholder="Release Year" name="gameYear"/>
+    <button type="submit">Edit Game</button>
+</form>
+
+<ol>
+    {{#games}}
+    <li>{{name}} - {{genre}} - {{platform}} - {{releaseYear}} -- ID: {{id}}</li>
+    {{/games}}
+</ol>
+</body>
+</html>
