@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab9f0986-b940-4070-8b2e-fe529930f5c4" name="Default" comment="" />
+    <list default="true" id="ab9f0986-b940-4070-8b2e-fe529930f5c4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameTracker1" afterPath="$PROJECT_DIR$/GameTracker1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.mv.db" afterPath="$PROJECT_DIR$/main.mv.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GameTrackerDB2/Game.class" afterPath="$PROJECT_DIR$/out/production/GameTrackerDB2/Game.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GameTrackerDB2/Main.class" afterPath="$PROJECT_DIR$/out/production/GameTrackerDB2/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Game.java" afterPath="$PROJECT_DIR$/src/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+    </list>
     <ignored path="GameTrackerDB2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,11 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,29 +61,29 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="780">
               <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1475092760000" expanded="true" signature="638:774" ph="CREATE TABLE... IF" />
-                <marker date="1475092760000" expanded="true" signature="4572:4599" ph="UPDATE GAMES... " />
-                <marker date="1475092760000" expanded="true" signature="4572:4675" ph="UPDATE GAMES... " />
-                <marker date="1475092760000" expanded="true" signature="4572:4676" ph="UPDATE GAMES... " />
-                <marker date="1475092760000" expanded="true" signature="4572:4677" ph="UPDATE GAMES... " />
-                <marker date="1475092760000" expanded="true" signature="4572:4679" ph="UPDATE GAMES... " />
-                <marker date="1475092760000" expanded="true" signature="5259:5278" ph="SELECT * FRO... GAMES" />
-                <marker date="1475092760000" expanded="true" signature="5912:5955" ph="INSERT INTO games... " />
-                <marker date="1475092760000" expanded="true" signature="6265:6294" ph="DELETE FROM " />
+                <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+                <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+                <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+                <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+                <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+                <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+                <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+                <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+                <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
@@ -84,11 +92,9 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="105">
               <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,10 +112,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Game.java" />
         <option value="$PROJECT_DIR$/src/User.java" />
         <option value="$PROJECT_DIR$/GameTracker1/resources/templates/home.html" />
         <option value="$PROJECT_DIR$/GameTracker1/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/Game.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -128,10 +134,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="725" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -197,8 +202,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -673,15 +678,20 @@
       <updated>1475003789081</updated>
       <workItem from="1475003790359" duration="6795000" />
       <workItem from="1475016191478" duration="4634000" />
-      <workItem from="1475089943654" duration="3461000" />
+      <workItem from="1475089943654" duration="4051000" />
+      <workItem from="1475095582940" duration="602000" />
+      <workItem from="1475113165358" duration="555000" />
+      <workItem from="1475155225595" duration="543000" />
+      <workItem from="1475178181132" duration="839000" />
+      <workItem from="1475252094108" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14890000" />
+    <option name="totallyTimeSpent" value="18653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="23" width="1280" height="725" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -691,13 +701,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13014828" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12871288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21647818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -735,6 +745,261 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Game.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
@@ -763,15 +1028,15 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1475092760000" expanded="true" signature="638:774" ph="CREATE TABLE... IF" />
-            <marker date="1475092760000" expanded="true" signature="4572:4599" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4675" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4676" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4677" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4679" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="5259:5278" ph="SELECT * FRO... GAMES" />
-            <marker date="1475092760000" expanded="true" signature="5912:5955" ph="INSERT INTO games... " />
-            <marker date="1475092760000" expanded="true" signature="6265:6294" ph="DELETE FROM " />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -780,9 +1045,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -816,15 +1079,15 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1475092760000" expanded="true" signature="638:774" ph="CREATE TABLE... IF" />
-            <marker date="1475092760000" expanded="true" signature="4572:4599" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4675" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4676" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4677" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4679" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="5259:5278" ph="SELECT * FRO... GAMES" />
-            <marker date="1475092760000" expanded="true" signature="5912:5955" ph="INSERT INTO games... " />
-            <marker date="1475092760000" expanded="true" signature="6265:6294" ph="DELETE FROM " />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -833,26 +1096,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="105">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game.java">
+    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="780">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -865,30 +1143,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameTracker1/resources/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1475092760000" expanded="true" signature="638:774" ph="CREATE TABLE... IF" />
-            <marker date="1475092760000" expanded="true" signature="4572:4599" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4675" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4676" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4677" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="4572:4679" ph="UPDATE GAMES... " />
-            <marker date="1475092760000" expanded="true" signature="5259:5278" ph="SELECT * FRO... GAMES" />
-            <marker date="1475092760000" expanded="true" signature="5912:5955" ph="INSERT INTO games... " />
-            <marker date="1475092760000" expanded="true" signature="6265:6294" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -1,5 +1,4 @@
 import org.h2.tools.Server;
-import org.h2.util.Permutations;
 import spark.ModelAndView;
 import spark.Session;
 import spark.Spark;
@@ -9,9 +8,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by johnjastrow on 4/15/16.
- */
+
 public class Main {
 
     static HashMap<String, User> users = new HashMap<>();

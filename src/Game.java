@@ -1,6 +1,4 @@
-/**
- * Created by johnjastrow on 4/15/16.
- */
+
 public class Game {
     Integer id;
     String name;
