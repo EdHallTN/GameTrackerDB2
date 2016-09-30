@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab9f0986-b940-4070-8b2e-fe529930f5c4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GameTracker1" afterPath="$PROJECT_DIR$/GameTracker1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.mv.db" afterPath="$PROJECT_DIR$/main.mv.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GameTrackerDB2/Game.class" afterPath="$PROJECT_DIR$/out/production/GameTrackerDB2/Game.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GameTrackerDB2/Main.class" afterPath="$PROJECT_DIR$/out/production/GameTrackerDB2/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Game.java" afterPath="$PROJECT_DIR$/src/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/User.java" afterPath="$PROJECT_DIR$/src/User.java" />
     </list>
     <ignored path="GameTrackerDB2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -68,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -92,8 +87,8 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -112,11 +107,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/User.java" />
         <option value="$PROJECT_DIR$/GameTracker1/resources/templates/home.html" />
         <option value="$PROJECT_DIR$/GameTracker1/resources/templates/login.html" />
         <option value="$PROJECT_DIR$/src/Game.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/User.java" />
       </list>
     </option>
   </component>
@@ -683,15 +678,15 @@
       <workItem from="1475113165358" duration="555000" />
       <workItem from="1475155225595" duration="543000" />
       <workItem from="1475178181132" duration="839000" />
-      <workItem from="1475252094108" duration="634000" />
+      <workItem from="1475252094108" duration="850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18653000" />
+    <option name="totallyTimeSpent" value="18869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1102,28 +1097,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
-            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
-            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
-            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
-            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
-            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
-            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
-            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
-            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1145,9 +1121,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475252293000" expanded="true" signature="560:696" ph="CREATE TABLE... IF" />
+            <marker date="1475252293000" expanded="true" signature="4494:4521" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4597" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4598" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4599" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="4494:4601" ph="UPDATE GAMES... " />
+            <marker date="1475252293000" expanded="true" signature="5181:5200" ph="SELECT * FRO... GAMES" />
+            <marker date="1475252293000" expanded="true" signature="5834:5877" ph="INSERT INTO games... " />
+            <marker date="1475252293000" expanded="true" signature="6187:6216" ph="DELETE FROM " />
+          </folding>
         </state>
       </provider>
     </entry>
