@@ -73,11 +73,7 @@ public class Main {
                     Game game = new Game(gameName, gameGenre, gamePlatform, gameYear);
 
                     insertGame(conn, gameName, gameGenre, gamePlatform, gameYear);
-
-                    if (user != null) {
-                        user.games.add(game);
-                    }
-
+                    
                     response.redirect("/");
                     return "";
                 })
@@ -167,7 +163,8 @@ public class Main {
     }
 
     static void deleteGame(Connection conn, Integer id) throws SQLException {
-        PreparedStatement stmt = conn.prepareStatement("DELETE FROM GAMES WHERE ID = " + id);
+        PreparedStatement stmt = conn.prepareStatement("DELETE FROM GAMES WHERE ID = ?");
+        stmt.setInt(1, id);
         stmt.execute();
     }
 }
