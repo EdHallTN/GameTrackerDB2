@@ -73,7 +73,7 @@ public class Main {
                     Game game = new Game(gameName, gameGenre, gamePlatform, gameYear);
 
                     insertGame(conn, gameName, gameGenre, gamePlatform, gameYear);
-                    
+
                     response.redirect("/");
                     return "";
                 })
